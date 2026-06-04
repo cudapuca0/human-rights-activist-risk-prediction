@@ -231,25 +231,13 @@ One of the most interesting findings was that Latin America displayed several pa
 ## Repository Structure
 
 ```text
-├── data/
+├── data (reach to me for data)/
 │   ├── raw/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── feature_engineering.ipynb
-│   └── modeling.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── modeling.py
-│   └── visualization.py
-│
-├── results/
-│   ├── figures/
-│   ├── tables/
-│   └── feature_importance/
-│
+│   ├── report.ipynb
+│   
 ├── report/
 │   └── Final_Report.pdf
 │
@@ -264,19 +252,12 @@ One of the most interesting findings was that Latin America displayed several pa
 
 ## What I Learned
 
-One of the biggest lessons from this project is that data rarely tells the entire story on its own.
-
-Many of the countries where defenders face the greatest risks also have limited reporting systems, restricted press freedom, or weak institutional transparency. In those contexts, missing data does not necessarily mean the absence of violence. Sometimes it means the opposite.
-
+One of the biggest lessons from this project is that data rarely tells the entire story on its own. Many of the countries where defenders face the greatest risks also have limited reporting systems, restricted press freedom, or weak institutional transparency. In those contexts, missing data does not necessarily mean the absence of violence. Sometimes it means the opposite 
 Working on this project taught me to think more critically about data quality, measurement challenges, and the responsibility analysts have when interpreting evidence.
-
-More importantly, it reinforced my belief that data science can be used not only to optimize business decisions, but also to better understand social challenges and contribute to meaningful conversations around governance, policy, and human rights.
 
 ---
 
-## Why I'm Proud of This Project
-
-This project sits at the intersection of several things I care deeply about:
+## This project sits at the intersection of several things I care deeply about:
 
 - Statistics
 - Machine Learning
@@ -285,8 +266,6 @@ This project sits at the intersection of several things I care deeply about:
 - Social Impact
 
 It challenged me technically, pushed me outside my comfort zone, and gave me the opportunity to apply analytical tools to a real-world issue affecting communities across the globe.
-
-Looking back, I am proud not because of a model's accuracy or a statistically significant coefficient, but because this work helped me better understand a complex problem and showed me how data can be used to ask important questions.
 
 ---
 
@@ -303,7 +282,6 @@ My interests include:
 - Public Policy Analytics
 - Artificial Intelligence
 
-Outside of analytics, you'll usually find me training for a marathon, learning a new language, traveling, or exploring how data can help us better understand the world around us.
 
 ---
 
@@ -314,10 +292,9 @@ I would like to thank:
 - Prof. Dr. Jonas Wolff
 - Peace Research Institute Frankfurt (PRIF)
 - Goethe University Frankfurt
-- University of Toronto
 
 for their mentorship, guidance, and support throughout this project.
 
 ---
 
-> *"Good research doesn't just explain patterns. It helps us ask better questions."*
+> *"For Dataset please reach out to me directly!!!"*
