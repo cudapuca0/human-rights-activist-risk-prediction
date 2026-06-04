@@ -14,20 +14,15 @@
 ## Quick Links
 
 [![Website](https://img.shields.io/badge/Website-cudapuca.base44.app-black?style=for-the-badge)](https://cudapuca.base44.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielpuente/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpuent02@gmail.com)
-[![Instagram](https://img.shields.io/badge/Running-dandrunner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dandrunner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/danielpuente/)
+[![Gmail](https://img.shields.io/badge/Gmail-danielpuent02%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:danielpuent02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Running-dandrunner-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/dandrunner)
 
 
-📄 [Research Report](https://drive.google.com/file/d/10CVcbsT8KuFv003LqrKrYe4ZIQ39HkDH/view?usp=sharing)
 
-📊 [Research Poster](https://drive.google.com/file/d/1kWHATFTB8duE-N0m3Sdj2Yju8f3TbHVq/view?usp=sharing)
+ [Research Report](https://drive.google.com/file/d/10CVcbsT8KuFv003LqrKrYe4ZIQ39HkDH/view?usp=sharing)
 
-💼 [LinkedIn](https://www.linkedin.com/in/danielpuente/)
-
-🌐 [Personal Website](https://cudapuca.base44.app)
-
-🏃 [Running Account](https://www.instagram.com/dandrunner)
+ [Research Poster](https://drive.google.com/file/d/1kWHATFTB8duE-N0m3Sdj2Yju8f3TbHVq/view?usp=sharing)
 
 ---
 
