@@ -35,19 +35,13 @@ The project brought together methods from statistics, economics, political scien
 
 ## Project Highlights
 
-✅ Analyzed global data on Human Rights Defender killings between 2014 and 2020
-
-✅ Combined econometric modeling and machine learning approaches
-
-✅ Built Generalized Estimating Equation (GEE) models for longitudinal data
-
-✅ Developed Random Forest models to identify key predictors
-
-✅ Compared global and Latin American patterns
-
-✅ Conducted at Goethe University Frankfurt and PRIF through GREP 2025
-
-✅ Integrated datasets from V-Dem, Front Line Defenders, Global Witness, WGI, and the World Bank
+- Analyzed global data on Human Rights Defender killings between 2014 and 2020
+- Combined econometric modeling and machine learning approaches
+- Built Generalized Estimating Equation (GEE) models for longitudinal data
+- Developed Random Forest models to identify key predictors
+- Compared global and Latin American patterns
+- Conducted at Goethe University Frankfurt and PRIF through GREP 2025
+- Integrated datasets from V-Dem, Front Line Defenders, Global Witness, WGI, and the World Bank
 
 ---
 
